@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MYEI_parser", "MYEI_parser\MYEI_parser.vcxproj", "{1D1A640E-15F6-477B-8A28-5DF936A58A63}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BioHarness_parser", "BioHarness_parser\BioHarness_parser.vcxproj", "{EBA6D4D3-19FE-44AF-A673-89484E8894AA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OBD_parser", "OBD_parser\OBD_parser.vcxproj", "{64A68BEB-F329-4AE9-928C-C5174AA32E97}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Integrate_parsed_outputs", "Integrate_parsed_outputs\Integrate_parsed_outputs.vcxproj", "{5CEB1EA6-9397-4FE7-8A3B-F95F2A5B82EE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BioHarness_SychTimestamp", "BioHarness_SychTimestamp\BioHarness_SychTimestamp.vcxproj", "{8B82946F-626C-4C46-BBCF-58A2EE3B5AE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D1A640E-15F6-477B-8A28-5DF936A58A63}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1D1A640E-15F6-477B-8A28-5DF936A58A63}.Debug|Win32.Build.0 = Debug|Win32
+		{1D1A640E-15F6-477B-8A28-5DF936A58A63}.Release|Win32.ActiveCfg = Release|Win32
+		{1D1A640E-15F6-477B-8A28-5DF936A58A63}.Release|Win32.Build.0 = Release|Win32
+		{EBA6D4D3-19FE-44AF-A673-89484E8894AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EBA6D4D3-19FE-44AF-A673-89484E8894AA}.Debug|Win32.Build.0 = Debug|Win32
+		{EBA6D4D3-19FE-44AF-A673-89484E8894AA}.Release|Win32.ActiveCfg = Release|Win32
+		{EBA6D4D3-19FE-44AF-A673-89484E8894AA}.Release|Win32.Build.0 = Release|Win32
+		{64A68BEB-F329-4AE9-928C-C5174AA32E97}.Debug|Win32.ActiveCfg = Debug|Win32
+		{64A68BEB-F329-4AE9-928C-C5174AA32E97}.Debug|Win32.Build.0 = Debug|Win32
+		{64A68BEB-F329-4AE9-928C-C5174AA32E97}.Release|Win32.ActiveCfg = Release|Win32
+		{64A68BEB-F329-4AE9-928C-C5174AA32E97}.Release|Win32.Build.0 = Release|Win32
+		{5CEB1EA6-9397-4FE7-8A3B-F95F2A5B82EE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5CEB1EA6-9397-4FE7-8A3B-F95F2A5B82EE}.Debug|Win32.Build.0 = Debug|Win32
+		{5CEB1EA6-9397-4FE7-8A3B-F95F2A5B82EE}.Release|Win32.ActiveCfg = Release|Win32
+		{5CEB1EA6-9397-4FE7-8A3B-F95F2A5B82EE}.Release|Win32.Build.0 = Release|Win32
+		{8B82946F-626C-4C46-BBCF-58A2EE3B5AE5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8B82946F-626C-4C46-BBCF-58A2EE3B5AE5}.Debug|Win32.Build.0 = Debug|Win32
+		{8B82946F-626C-4C46-BBCF-58A2EE3B5AE5}.Release|Win32.ActiveCfg = Release|Win32
+		{8B82946F-626C-4C46-BBCF-58A2EE3B5AE5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

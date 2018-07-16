@@ -1,0 +1,4 @@
+Subject_ID,Sessions,P1_date,P1_preshaking_start,P1_preshaking_end,P1_baseline_start,P1_baseline_end,P1_drivnig_start,P1_destination_SigStop,P1_destination_restart,P1_driving_end,P2_postshaking_start,P2_postshaking_end,P2_date,P2_preshaking_start,P2_preshaking_end,P2_baseline_start,P2_baseline_end,P2_drivnig_start,P2_destination_SigStop,P2_destination_restart,P2_driving_end,P2_postshaking_start,P2_postshaking_end
+24,Both,02/24/2014,11:04:40,11:05:00,11:10:00,11:11:00,11:16:30,None,None,11:58:35,None,None,02/24/2014,None,None,12:05:00,12:06:00,12:06:56,12:21:30,12:21:56,12:33:00,12:43:20,12:43:40
+25,Both,02/25/2014,16:15:40,16:16:00,16:18:45,16:19:45,16:21:52,None,None,17:04:14,None,None,02/25/2014,None,None,17:11:00,17:12:00,17:13:03,17:44:09,17:44:35,18:01:31,18:06:30,18:06:50
+26,Both,03/03/2014,11:21:00,11:21:20,11:30:00,11:31:00,11:32:18,None,None,12:20:32,None,None,03/03/2014,None,None,12:33:30,12:34:30,12:35:52,12:52:28,12:52:58,13:11:52,13:24:20,13:24:40
